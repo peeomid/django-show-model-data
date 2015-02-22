@@ -1,0 +1,1 @@
+@django-show-model-data
